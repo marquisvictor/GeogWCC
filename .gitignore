@@ -1,0 +1,18 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/data
+/.pnp
+/ipynb_checkpoints
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+/Papers
+
+.ipynb_checkpoints
+
